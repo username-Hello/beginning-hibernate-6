@@ -1,2 +1,2 @@
-# beginning-hibernate-6
+# beginning-hibernate-6-ex
 Repository for doing exercises from book "Beginning hibernate 6"
